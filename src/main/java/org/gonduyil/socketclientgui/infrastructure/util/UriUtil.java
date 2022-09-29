@@ -1,4 +1,4 @@
-package org.gonduyil.socketclientgui.infrastructure;
+package org.gonduyil.socketclientgui.infrastructure.util;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;

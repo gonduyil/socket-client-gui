@@ -1,4 +1,4 @@
-package org.gonduyil.socketclientgui.biz.model;
+package org.gonduyil.socketclientgui.infrastructure.util;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
